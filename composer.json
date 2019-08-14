@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Medma_ChangeShipping",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "A shipping extension that allows the admin to change the shipping after order is placed from the frontend.",
+    "authors": [
+    {
+        "name": "Medma Infomatix",
+        "email": "gaurav@medma.in"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
